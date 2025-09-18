@@ -17,7 +17,11 @@ De dataset bevat de volgende kolommen:
 
 2. **Visualisatie**
    - Barplot van veelvoorkomende woorden
+     <img width="640" height="480" alt="barplot" src="https://github.com/user-attachments/assets/03f40b68-adee-404d-bf77-feb9c4592b69" />
+
    - WordCloud van alle reviews
+     <img width="640" height="480" alt="WordCloud" src="https://github.com/user-attachments/assets/b44d5fe2-87b7-4cd8-a92a-90159a3e5650" />
+
 
 3. **Sentimentanalyse**
    - NLTK SentimentIntensityAnalyzer voor pos/neg labeling
